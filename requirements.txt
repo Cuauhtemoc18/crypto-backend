@@ -1,9 +1,8 @@
-numpy==1.26.4
-scikit-learn==1.4.2
-joblib==1.4.2
 fastapi
 uvicorn[standard]
 python-dotenv
-SQLAlchemy>=2
+SQLAlchemy>=2.0
 psycopg2-binary
-pandas
+joblib==1.4.2
+scikit-learn==1.4.2
+numpy==1.26.4
